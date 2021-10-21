@@ -1,0 +1,7 @@
+# IDE
+**/.ipynb_checkpoints
+**/.vscode
+# data
+*.csv
+# presentation support
+*.pptx
