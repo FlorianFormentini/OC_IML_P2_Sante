@@ -18,4 +18,17 @@ The data is separated into four sections:
 1. Process the dataset in order to identify relevant variables for future processing. Automate these treatments to avoid repeating these operations
 2. Perform an univariate analysis for each variable of interest, in order to synthesize its behavior.
 3. Perform at least one multivariate analysis and the appropriate statistical tests to verify the significance of the results.
-4. Find an application idea related to food and write an exploration report.
+4. Perform a dimensional reduction
+5. Find an application idea related to food and write an exploration report.
+
+## App Idea: "No Pain With Gain"
+The goal is to guide users through their diets to help them reach their weight goals through a healthier and more balanced diet.
+- Users will be able to set goals based on predefined or fully customized plan types
+- The application will then offer them an appropriate diet, indicating what the user should eat and at what times
+- Users will be asked to indicate what they ate
+- The products will then be filtered according to the type of meal, the necessary nutrient intake, and user preferences (special diets, allergies)
+- And sorted according to the nutriscore
+- The app will warn if there are potentially bad additives
+- Users will be able to inform about new products (which they have at home) and the application will indicate if they are suitable and will offer better
+- Users will be able to regularly provide various information to obtain statistics on their progress
+- Perhaps the app will also be able to offer recipes depending on the products but for this it may be necessary to go through third-party services
